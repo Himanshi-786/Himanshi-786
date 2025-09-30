@@ -8,8 +8,8 @@
 
 ---
 
-## 🌐 Socials: (https://www.linkedin.com/in/himanshi-sardana-1842b1370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-(https://github.com/Himanshi-786)
+## 🌐 Socials: [![LinkedIn]](https://www.linkedin.com/in/himanshi-sardana-1842b1370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub]](https://github.com/Himanshi-786)
 
 ---
 
@@ -25,7 +25,8 @@
 - 🤖 *Deepfake Detection using Machine Learning* – Research-based project on detecting fake media.  
 - 🌐 *Web Portfolio* – A personal portfolio built with HTML, CSS, and JavaScript.  
 
-👉 Check out my repositories here: [My GitHub Repos](https://github.com/Himanshi-786/Himanshi-786)
+👉 Check out my repositories here: [My GitHub Repos](https://github.com/Himanshi-786)
+
 ---
 
 

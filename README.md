@@ -25,8 +25,7 @@
 - 🤖 *Deepfake Detection using Machine Learning* – Research-based project on detecting fake media.  
 - 🌐 *Web Portfolio* – A personal portfolio built with HTML, CSS, and JavaScript.  
 
-👉 Check out my repositories here: [My GitHub Repos](https://github.com/Himanshi-786)
-
+👉 Check out my repositories here: [My GitHub Repos](https://github.com/Himanshi-786/Himanshi-786)
 ---
 
 

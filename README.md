@@ -8,7 +8,8 @@
 
 ---
 
-## 🌐 Socials: [![LinkedIn]](https://www.linkedin.com/in/himanshi-sardana-1842b1370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub]](https://github.com/Himanshi-786)
+## 🌐 Socials: [![LinkedIn]](https://www.linkedin.com/in/himanshi-sardana-1842b1370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub]](https://github.com/Himanshi-786)
 
 ---
 
